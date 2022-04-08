@@ -19,8 +19,6 @@ _Nothing to see here yet._
 
 [![Sophia's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsoophx&count_private=true&show_icons=true&theme=radical&&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xsoophx.xsoophx&left_color=black&right_color=#7F52FF)
-
 <details>
 <summary>
 More things
@@ -38,3 +36,6 @@ I really enjoy creating mixes in my freetime:
 <!-- YOUTUBE:END -->
 
 </details>
+<br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xsoophx.xsoophx&left_color=black&right_color=#7F52FF)
