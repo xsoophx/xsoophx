@@ -1,4 +1,4 @@
-## Hello there! <img src="https://i.gifer.com/6oa.gif" width="40" height="40" />
+## Hello there! <img src="./binaries/bird.gif" width="40">
 
 My name is Sophia and I'm currently a working student, who likes to learn new things 🤓
 
