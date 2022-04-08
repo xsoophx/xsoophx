@@ -19,6 +19,14 @@ _Nothing to see here yet._
 
 [![Sophia's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsoophx&count_private=true&show_icons=true&theme=radical&&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xsoophx.xsoophx&left_color=black&right_color=#7F52FF)
+
+<details>
+<summary>
+More things
+</summary>
+<br>
+
 ### Some real nice mixes 👀🎶
 I really enjoy creating mixes in my freetime:
 <!-- YOUTUBE:START -->
@@ -29,4 +37,4 @@ I really enjoy creating mixes in my freetime:
 - [[Techno] 👽 SPACE TIME DRIVING TECHNO 2021👽  N.O.B.A, H! Dude &amp; more | 134 BPM](https://www.youtube.com/watch?v=jfLOZqARWPA)
 <!-- YOUTUBE:END -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xsoophx.xsoophx&left_color=black&right_color=#7F52FF)
+</details>
