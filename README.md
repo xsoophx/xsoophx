@@ -1,6 +1,6 @@
 ## Hello there! <img src="./binaries/bird.gif" width="40">
 
-My name is Sophia and I'm currently a working student, who likes to learn new things 🤓
+My name is Sophia and currently I'm a working student, who likes to learn new things 🤓
 
 I'm studying computer science and I really enjoy doing maths stuff 🧪 and coding. 💻
 
@@ -38,4 +38,4 @@ I really enjoy creating mixes in my freetime:
 </details>
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xsoophx.xsoophx&left_color=black&right_color=#7F52FF)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=xsoophx.xsoophx&left_color=black&right_color=#7F52FF) -->
