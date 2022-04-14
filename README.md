@@ -36,6 +36,4 @@ I really enjoy creating mixes in my freetime:
 <!-- YOUTUBE:END -->
 
 </details>
-<br>
-
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=xsoophx.xsoophx&left_color=black&right_color=#7F52FF) -->
