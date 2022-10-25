@@ -25,7 +25,7 @@ More things
 </summary>
 <br>
 
-### Some real nice mixes 👀🎶
+### Some really nice mixes 👀🎶
 I really enjoy creating mixes in my freetime:
 <!-- YOUTUBE:START -->
 - [[Techno, Hardtechno] 🔮145 BPM TECHNO MIX 🔮 - November 2021 | Jacidorex, Regal &amp; more](https://www.youtube.com/watch?v=t2OeTrKOc4E)
