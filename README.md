@@ -9,7 +9,7 @@ I'm studying computer science and I really enjoy doing maths stuff 🧪 and codi
 _Nothing to see here yet._
 
 
-- 😆 Currently working to get my **Bachelors degree** done.
+- 😆 Currently working to get my **Masters degree**.
 - ✍️ I like to use **Kotlin** to write some code.
 - ❗💬 There has to be a **dot** behind **every commit message**.
 - 🌱 I'm currently expanding my knowledge on **typescript** and **react**.
