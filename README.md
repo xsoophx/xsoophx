@@ -28,11 +28,11 @@ More things
 ### Some really nice mixes 👀🎶
 I really enjoy creating mixes in my freetime:
 <!-- YOUTUBE:START -->
+- [[Hardtechno, Schranz] ⛓️‍💥 Rave Revival: Fresh Hardtechno meets timeless Schranz ⛓️‍💥](https://www.youtube.com/watch?v=OWLI13ShXCU)
 - [[Techno, Hardtechno] 🔮145 BPM TECHNO MIX 🔮 - November 2021 | Jacidorex, Regal &amp; more](https://www.youtube.com/watch?v=t2OeTrKOc4E)
 - [[Hardtechno, Industrial Techno] 👹 145 BPM TECHNO MIX 👹 - June 2021 | Sebastian Groth, O.B.I. &amp; more](https://www.youtube.com/watch?v=PW0KhvUSd4A)
 - [[Techno, Hardtechno] 💯Trending TECHNO April 2021 💯- 140 BPM | KlangKuenstler, Shadym &amp; more](https://www.youtube.com/watch?v=pTWH6s-szkw)
 - [[Techno] TRENDING BEATPORT TECHNO APRIL 2️⃣0️⃣2️⃣1️⃣](https://www.youtube.com/watch?v=a7CrCV8vsbY)
-- [[Techno] 👽 SPACE TIME DRIVING TECHNO 2021👽  N.O.B.A, H! Dude &amp; more | 134 BPM](https://www.youtube.com/watch?v=jfLOZqARWPA)
 <!-- YOUTUBE:END -->
 
 </details>
