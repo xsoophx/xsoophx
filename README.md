@@ -1,15 +1,14 @@
 ## Hello there! <img src="./binaries/bird.gif" width="40">
 
-My name is Sophia and currently I'm a working student, who likes to learn new things 🤓
+My name is Sophia and I'm a software engineer, who likes to learn new things 🤓
 
-I'm studying computer science and I really enjoy doing maths stuff 🧪 and coding. 💻
+I studied computer science and still really enjoy doing maths stuff 🧪 and coding. 💻 😆
 
 ### Connect with me ✉️
 
 _Nothing to see here yet._
 
 
-- 😆 Currently working to get my **Masters degree**.
 - ✍️ I like to use **Kotlin** to write some code.
 - 🌱 I'm currently expanding my knowledge on **software architecture** and **signal processing techniques**.
 
